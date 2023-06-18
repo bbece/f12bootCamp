@@ -38,7 +38,7 @@
 
 ## Product Backlog URL
 
-[https://trello.com/b/c6mo9t4N/bytebenders-f12] (https://miro.com/app/board/uXjVM9yq-Kw=/?share_link_id=375837276612)
+(https://miro.com/app/board/uXjVM9yq-Kw=/?share_link_id=375837276612)
 ---
 
 # Sprint 1
