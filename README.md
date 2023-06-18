@@ -51,9 +51,9 @@
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
-Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar genel yapılacak işleri (task) gösterirken, mavi item'lar yazılım ve tasarım görevlerini temsil etmektedir.
 
-- **Daily Scrum**: Tanışma Slackte gerçekelştikten sonra Whatsapp grubu kuruldu ve sonrasında discord aracılığı ile sesli görüşmeler yapıldı. Görüşmelere dair bir kaç görüntü;
+- **Daily Scrum**: Tanışma Slackte gerçekleştikten sonra Whatsapp grubu kuruldu ve sonrasında discord aracılığı ile sesli görüşmeler yapıldı. Görüşmelere dair bir kaç görüntü;
 
 ![dcilkgörüşmess](https://github.com/bbece/f12bootCamp/assets/76443131/ffcb3c2f-6810-4192-b133-b4278e4f0172)
 ![dctoplantı](https://github.com/bbece/f12bootCamp/assets/76443131/e380ea8f-74c0-423a-8c5f-4d24ccea1071)
