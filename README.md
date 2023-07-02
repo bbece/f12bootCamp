@@ -65,7 +65,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 ![figmaSS](https://github.com/bbece/f12bootCamp/assets/76443131/337958ae-b27c-40f8-b61a-518b6bccfe8e)
 
 - **Sprint Review**: 
-Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
+Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir.
 
 - **Sprint Retrospective:**
   - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
@@ -79,6 +79,27 @@ Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için g
 ---
 
 # Sprint 2
+
+**Sprint Notları:**
+
+Ürün hakkında detayları tartışıp olabilecek ve olmaaycak durumlar üzerine tartışıldı. İş bölümü yapıldı. Tasarımı yapıp ona indexli bir kod yazılımına başlandı. Google hesabı ile giriş yapabilme özelliğini aktif kullanabilme adına firebase hakkında araştırmaya başlanıldı. 
+
+**Sprint içinde tamamlanması tahmin edilen puan:**  130
+
+**Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 400 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in 130 olması gerektiğine karar verildi. Tasarım ve başlangıç kodlarının uyumunun aldığı süre, aktive etme ve firebase araştırmaları dahilinde böyle olması gerektiğine karar kıldık.
+
+**Daily Scrum:** Genelde anlaşılan saatte discordda buluşarak sesli biçimde görüşmeler sağladık.
+![Screenshot_3](https://github.com/bbece/f12bootCamp/assets/76443131/3c542d11-227f-464b-a951-0f59850e24ae)
+
+
+**Sprint board update:**
+
+**Ürün Durumu:**
+
+**Sprint Review:**
+
+**Sprint Retrospective:**
+
 
 
 ---
