@@ -14,7 +14,7 @@
 
 ## Ürün İsmi
 
---? App--
+--Habitify App--
 
 ## Ürün Açıklaması
 
@@ -100,10 +100,14 @@ Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için g
 **Ürün Durumu:**
 ![tasarimTHIRD](https://github.com/bbece/f12bootCamp/assets/76443131/a61def4c-358b-4eb9-a10f-b642349e9d06)
 
-**Sprint Review:**
+**Sprint Review:** Bayram dolayısıyla yeterince zaman ayıramadık ve bu sebepten ötürü büyük bir iş yükünü son sprinte bıraktık. Bu sprintte tasarım ve içerik hakkında konuları netleştirdik. Tasarım için büyük gelişmeler kaydettik ve bunu kod ile desteklenmesi kaldı.
 
 **Sprint Retrospective:**
-
+  Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı ve ayrıca Product Owner ile developerlar sık ileitşimde olmalı
+  Daha sık toplantı yapılmalı ve işbirliği halinde olunmalı
+  Tasarım tamamen bitmesi ve gerekirse kod yüküne göre düzenlenmesi
+  Tasarıma bağlı olan arayüz kodunun bitirilmesi ve gereken backendler varsa onlara geçilmesi
+  Google gibi hazır hesap ile giriş bağlantısının kurulması
 
 
 ---
