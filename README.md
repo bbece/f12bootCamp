@@ -82,19 +82,23 @@ Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için g
 
 **Sprint Notları:**
 
-Ürün hakkında detayları tartışıp olabilecek ve olmaaycak durumlar üzerine tartışıldı. İş bölümü yapıldı. Tasarımı yapıp ona indexli bir kod yazılımına başlandı. Google hesabı ile giriş yapabilme özelliğini aktif kullanabilme adına firebase hakkında araştırmaya başlanıldı. 
+Ürün hakkında detayları tartışıp olabilecek ve olmaaycak durumlar üzerine tartışıldı. İş bölümü yapıldı. Tasarımı yapıp ona indexli bir kod yazılımına başlanma kararı alındı. Google hesabı ile giriş yapabilme özelliğini aktif kullanabilme adına firebase hakkında araştırmaya başlanıldı. 
 
-**Sprint içinde tamamlanması tahmin edilen puan:**  130
+**Sprint içinde tamamlanması tahmin edilen puan:**  100
 
-**Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 400 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in 130 olması gerektiğine karar verildi. Tasarım ve başlangıç kodlarının uyumunun aldığı süre, aktive etme ve firebase araştırmaları dahilinde böyle olması gerektiğine karar kıldık.
+**Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 400 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in 100 olması gerektiğine karar verildi. Tasarım ve başlangıç kodlarının uyumunun aldığı süre, aktive etme ve firebase araştırmaları dahilinde böyle olması gerektiğine karar kıldık. Tasarımı başarıyla bitirme bu sprintin ana hedefi.
 
 **Daily Scrum:** Genelde anlaşılan saatte discordda buluşarak sesli biçimde görüşmeler sağladık.
 ![Screenshot_3](https://github.com/bbece/f12bootCamp/assets/76443131/3c542d11-227f-464b-a951-0f59850e24ae)
+![Screenshot_1](https://github.com/bbece/f12bootCamp/assets/76443131/4710fb74-2c0e-45a3-81ab-77663b5c49bc)
 
 
 **Sprint board update:**
+![Screenshot_2](https://github.com/bbece/f12bootCamp/assets/76443131/339e39ee-8986-4c98-b645-08c072838d38)
+
 
 **Ürün Durumu:**
+![tasarimTHIRD](https://github.com/bbece/f12bootCamp/assets/76443131/a61def4c-358b-4eb9-a10f-b642349e9d06)
 
 **Sprint Review:**
 
