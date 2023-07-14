@@ -114,4 +114,32 @@ Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için g
 
 # Sprint 3
 
+**Sprint Notları:**
+
+Ürün hakkında detayları tartışıp olabilecek ve olmaycak durumlar üzerine tartışıldı. İş bölümü yapıldı. Tasarımı yapıp ona indexli bir kod yazılımına başlanıldı ve bitirilme hedefi kondu.
+
+**Sprint içinde tamamlanması tahmin edilen puan:**  200
+
+**Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 400 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde üçüncü sprint'in 200 olması gerektiğine karar verildi. Tasarıma uygun şekilde kodlamalar yapılmalı. Sayfalar arası geçiş sağlanması ile ana hedefler gerçekleşiyor. Ardından video ve yükleme gerekiyor.
+
+**Daily Scrum:** Genelde anlaşılan saatte discordda buluşarak sesli biçimde görüşmeler sağladık.
+![Screenshot_1](https://github.com/bbece/f12bootCamp/assets/76443131/eec611f2-9829-4317-880c-4a042924704f)
+![Screenshot_2](https://github.com/bbece/f12bootCamp/assets/76443131/100aaa0c-1330-4eab-abd6-892955b2ab71)
+![WhatsApp Image 2023-07-14 at 14 27 52](https://github.com/bbece/f12bootCamp/assets/76443131/f6589117-fad0-46a5-9a5d-00576a5377ed)
+
+
+**Sprint board update:**
+
+
+**Ürün Durumu:**
+![tasarimFIFTH](https://github.com/bbece/f12bootCamp/assets/76443131/f67f2961-7102-465d-a2d8-3c816f302111)
+
+**Sprint Review:** Bayram sonrası staj ve işe dönüşlerin yoğunlaşması üzerine ekibin beklenildiği gibi ürüne odaklanamadığı gözlemlendi. Firebase gibi kısımlarda zorlandığımızı bu konularda bilgimizin ve zamanımızın yetmediğini fark edip yapmaktan vazgeçtik. 
+
+**Sprint Retrospective:**
+-  Daha sık toplantı yapılmalı ve işbirliği halinde olunmalı
+-  Planlama daha iyi yapılmalıydı
+-  İşlere erkenden karar verilip daha öncesinden harekete geçilmeliydi
+  
+
 ---
