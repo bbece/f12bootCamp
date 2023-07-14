@@ -123,9 +123,10 @@ Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için g
 **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 400 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde üçüncü sprint'in 200 olması gerektiğine karar verildi. Tasarıma uygun şekilde kodlamalar yapılmalı. Sayfalar arası geçiş sağlanması ile ana hedefler gerçekleşiyor. Ardından video ve yükleme gerekiyor.
 
 **Daily Scrum:** Genelde anlaşılan saatte discordda buluşarak sesli biçimde görüşmeler sağladık.
+
 ![Screenshot_1](https://github.com/bbece/f12bootCamp/assets/76443131/eec611f2-9829-4317-880c-4a042924704f)
-![Screenshot_2](https://github.com/bbece/f12bootCamp/assets/76443131/100aaa0c-1330-4eab-abd6-892955b2ab71)
 ![WhatsApp Image 2023-07-14 at 14 27 52](https://github.com/bbece/f12bootCamp/assets/76443131/f6589117-fad0-46a5-9a5d-00576a5377ed)
+![Screenshot_2](https://github.com/bbece/f12bootCamp/assets/76443131/100aaa0c-1330-4eab-abd6-892955b2ab71)
 
 
 **Sprint board update:**
