@@ -133,7 +133,7 @@ Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için g
 
 
 **Ürün Durumu:**
-![tasarimFIFTH](https://github.com/bbece/f12bootCamp/assets/76443131/f67f2961-7102-465d-a2d8-3c816f302111)
+![tasarimPNG](https://github.com/bbece/f12bootCamp/assets/76443131/07fd7844-d155-4c2c-a6b4-87f15f2bac86)
 
 **Sprint Review:** Bayram sonrası staj ve işe dönüşlerin yoğunlaşması üzerine ekibin beklenildiği gibi ürüne odaklanamadığı gözlemlendi. Firebase gibi kısımlarda zorlandığımızı bu konularda bilgimizin ve zamanımızın yetmediğini fark edip yapmaktan vazgeçtik. 
 
