@@ -1,4 +1,5 @@
 # f12bootCamp
+Lütfen kodları ffff12.zip dosyasından kontrol edin
 
 **ByteBenders**
 
