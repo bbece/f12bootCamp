@@ -1,6 +1,6 @@
 # f12bootCamp
 
- **ByteBenders**
+**ByteBenders**
 
 # Ürün İle İlgili Bilgiler
 
@@ -26,7 +26,7 @@
 - Alışkanlık takibini yapmak
 - Girdiğiniz verilerin (kazanmaya çalıştığınız ya da devam ettirdiğiniz alışkanlık için) grafikleşmesi
 - Akademik bilgilerinin takibi
-- 
+-
 
 ## Hedef Kitle
 
@@ -49,7 +49,7 @@
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 400 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
-- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar genel yapılacak işleri (task) gösterirken, mavi item'lar yazılım ve tasarım görevlerini temsil etmektedir.
 
@@ -58,19 +58,19 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 ![dcilkgörüşmess](https://github.com/bbece/f12bootCamp/assets/76443131/ffcb3c2f-6810-4192-b133-b4278e4f0172)
 ![dctoplantı](https://github.com/bbece/f12bootCamp/assets/76443131/e380ea8f-74c0-423a-8c5f-4d24ccea1071)
 
-- **Sprint board update**: Sprint board screenshotları: 
-![miroSS](https://github.com/bbece/f12bootCamp/assets/76443131/bd0fc895-777f-477e-8bdf-68a1ed13f0e6)
+- **Sprint board update**: Sprint board screenshotları:
+  ![miroSS](https://github.com/bbece/f12bootCamp/assets/76443131/bd0fc895-777f-477e-8bdf-68a1ed13f0e6)
 
 - **Ürün Durumu**: Ekran görüntüleri:
-![figmaSS](https://github.com/bbece/f12bootCamp/assets/76443131/337958ae-b27c-40f8-b61a-518b6bccfe8e)
+  ![figmaSS](https://github.com/bbece/f12bootCamp/assets/76443131/337958ae-b27c-40f8-b61a-518b6bccfe8e)
 
-- **Sprint Review**: 
-Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir.
+- **Sprint Review**:
+  Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir.
 
 - **Sprint Retrospective:**
-  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
-  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-  - Daha sık toplantı yapılmalı ve işbirliği halinde olunmalı 
+    - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
+    - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
+    - Daha sık toplantı yapılmalı ve işbirliği halinde olunmalı
 
 
 -**Diğer Notlar**:
@@ -82,7 +82,7 @@ Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için g
 
 **Sprint Notları:**
 
-Ürün hakkında detayları tartışıp olabilecek ve olmaaycak durumlar üzerine tartışıldı. İş bölümü yapıldı. Tasarımı yapıp ona indexli bir kod yazılımına başlanma kararı alındı. Google hesabı ile giriş yapabilme özelliğini aktif kullanabilme adına firebase hakkında araştırmaya başlanıldı. 
+Ürün hakkında detayları tartışıp olabilecek ve olmaaycak durumlar üzerine tartışıldı. İş bölümü yapıldı. Tasarımı yapıp ona indexli bir kod yazılımına başlanma kararı alındı. Google hesabı ile giriş yapabilme özelliğini aktif kullanabilme adına firebase hakkında araştırmaya başlanıldı.
 
 **Sprint içinde tamamlanması tahmin edilen puan:**  100
 
@@ -103,17 +103,17 @@ Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için g
 **Sprint Review:** Bayram dolayısıyla yeterince zaman ayıramadık ve bu sebepten ötürü büyük bir iş yükünü son sprinte bıraktık. Bu sprintte tasarım ve içerik hakkında konuları netleştirdik. Tasarım için büyük gelişmeler kaydettik ve bunu kod ile desteklenmesi kaldı.
 
 **Sprint Retrospective:**
-  Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı ve ayrıca Product Owner ile developerlar sık ileitşimde olmalı
-  Daha sık toplantı yapılmalı ve işbirliği halinde olunmalı
-  Tasarım tamamen bitmesi ve gerekirse kod yüküne göre düzenlenmesi
-  Tasarıma bağlı olan arayüz kodunun bitirilmesi ve gereken backendler varsa onlara geçilmesi
-  Google gibi hazır hesap ile giriş bağlantısının kurulması
+Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı ve ayrıca Product Owner ile developerlar sık ileitşimde olmalı
+Daha sık toplantı yapılmalı ve işbirliği halinde olunmalı
+Tasarım tamamen bitmesi ve gerekirse kod yüküne göre düzenlenmesi
+Tasarıma bağlı olan arayüz kodunun bitirilmesi ve gereken backendler varsa onlara geçilmesi
+Google gibi hazır hesap ile giriş bağlantısının kurulması
 
 
 ---
 
 # Sprint 3
-
+![img.png](img.png)
 **Sprint Notları:**
 
 Ürün hakkında detayları tartışıp olabilecek ve olmaycak durumlar üzerine tartışıldı. İş bölümü yapıldı. Tasarımı yapıp ona indexli bir kod yazılımına başlanıldı ve bitirilme hedefi kondu.
@@ -135,12 +135,7 @@ Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için g
 **Ürün Durumu:**
 ![tasarimPNG](https://github.com/bbece/f12bootCamp/assets/76443131/07fd7844-d155-4c2c-a6b4-87f15f2bac86)
 
-**Sprint Review:** Bayram sonrası staj ve işe dönüşlerin yoğunlaşması üzerine ekibin beklenildiği gibi ürüne odaklanamadığı gözlemlendi. Firebase gibi kısımlarda zorlandığımızı bu konularda bilgimizin ve zamanımızın yetmediğini fark edip yapmaktan vazgeçtik. 
+**Sprint Review:** Bayram sonrası staj ve işe dönüşlerin yoğunlaşması üzerine ekibin beklenildiği gibi ürüne odaklanamadığı gözlemlendi. Firebase gibi kısımlarda zorlandığımızı bu konularda bilgimizin ve zamanımızın yetmediğini fark edip yapmaktan vazgeçtik.
 
 **Sprint Retrospective:**
 -  Daha sık toplantı yapılmalı ve işbirliği halinde olunmalı
--  Planlama daha iyi yapılmalıydı
--  İşlere erkenden karar verilip daha öncesinden harekete geçilmeliydi
-  
-
----
